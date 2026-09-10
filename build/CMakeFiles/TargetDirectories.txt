@@ -1,0 +1,7 @@
+C:/Users/tengo/OneDrive/Escritorio/Proyecto/TULForMySound/build/CMakeFiles/juce_lv2_helper.dir
+C:/Users/tengo/OneDrive/Escritorio/Proyecto/TULForMySound/build/CMakeFiles/INSTALL.dir
+C:/Users/tengo/OneDrive/Escritorio/Proyecto/TULForMySound/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/tengo/OneDrive/Escritorio/Proyecto/TULForMySound/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/tengo/OneDrive/Escritorio/Proyecto/TULForMySound/build/modules/CMakeFiles/INSTALL.dir
+C:/Users/tengo/OneDrive/Escritorio/Proyecto/TULForMySound/build/extras/Build/CMakeFiles/INSTALL.dir
+C:/Users/tengo/OneDrive/Escritorio/Proyecto/TULForMySound/build/extras/Build/juceaide/CMakeFiles/INSTALL.dir

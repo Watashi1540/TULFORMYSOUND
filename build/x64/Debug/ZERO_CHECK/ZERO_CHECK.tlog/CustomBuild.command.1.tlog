@@ -1,0 +1,10 @@
+^C:\USERS\TENGO\ONEDRIVE\ESCRITORIO\PROYECTO\TULFORMYSOUND\BUILD\CMAKEFILES\747863AFA83A1F97C359DA59B6327810\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/tengo/OneDrive/Escritorio/Proyecto/TULForMySound/JUCE -BC:/Users/tengo/OneDrive/Escritorio/Proyecto/TULForMySound/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/tengo/OneDrive/Escritorio/Proyecto/TULForMySound/build/JUCE.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\tengo\OneDrive\Escritorio\Proyecto\TULForMySound\build\CMakeFiles\747863afa83a1f97c359da59b6327810\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{729E9F01-0369-313C-B2DF-FBF1D39C465F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+{
+    "DSP": "Digital Signal Processing",
+    "Module": "Reusable component",
+    "Plugin": "Final product",
+    "Framework": "Reusable infrastructure",
+    "Adapter": "Converts external libraries into TUL abstractions",
+    "Parameter": "Value used to control DSP",
+    "Processor": "Object that modifies audio",
+    "Analyzer": "Object that reads audio without modifying it"
+}

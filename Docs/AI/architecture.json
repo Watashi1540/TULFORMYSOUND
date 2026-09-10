@@ -1,0 +1,22 @@
+{
+    "layers": [
+        "Plugins",
+        "Framework",
+        "Adapters",
+        "JUCE"
+    ],
+    "dependencies": {
+        "Plugins": [
+            "Framework"
+        ],
+        "Framework": [],
+        "Adapters": [
+            "JUCE"
+        ]
+    },
+    "rules": [
+        "Framework must not depend on Plugins.",
+        "Modules should be reusable.",
+        "Business logic belongs to Modules."
+    ]
+}

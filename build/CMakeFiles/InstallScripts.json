@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/tengo/OneDrive/Escritorio/Proyecto/TULForMySound/build/cmake_install.cmake",
+		"C:/Users/tengo/OneDrive/Escritorio/Proyecto/TULForMySound/build/modules/cmake_install.cmake",
+		"C:/Users/tengo/OneDrive/Escritorio/Proyecto/TULForMySound/build/extras/Build/cmake_install.cmake",
+		"C:/Users/tengo/OneDrive/Escritorio/Proyecto/TULForMySound/build/extras/Build/juceaide/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

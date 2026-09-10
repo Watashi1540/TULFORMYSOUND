@@ -1,0 +1,33 @@
+{
+    "project": "TUL Suite",
+    "language": "C++20",
+    "framework": "JUCE",
+    "namespace": "TUL",
+    "architecture": "Modular",
+    "plugin_role": "Assembler",
+    "framework_role": "Business Logic",
+    "coding_style": {
+        "brace_style": "Allman",
+        "member_access": "this->",
+        "member_initialization": "Constructor",
+        "header_guard": "#pragma once"
+    },
+    "includes": {
+        "allow_relative": false,
+        "allow_absolute": false,
+        "preferred": "<TUL/...>"
+    },
+    "principles": [
+        "Single Responsibility",
+        "Reusable Modules",
+        "Low Coupling",
+        "High Cohesion"
+    ],
+    "rules": [
+        "Never place DSP logic inside Plugins.",
+        "Prefer reusable code over duplication.",
+        "Avoid direct dependencies on JUCE.",
+        "Preserve project architecture.",
+        "Explain architectural changes before suggesting them."
+    ]
+}

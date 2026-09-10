@@ -1,0 +1,18 @@
+{
+    "style": {
+        "braces": "Allman",
+        "member_access": "this->",
+        "namespace": "TUL",
+        "pragma_once": true
+    },
+    "naming": {
+        "class": "PascalCase",
+        "method": "camelCase",
+        "member": "camelCase",
+        "constant": "UPPER_CASE"
+    },
+    "comments": {
+        "describe_why": true,
+        "describe_obvious": false
+    }
+}

@@ -1,0 +1,2908 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "0D48ryEZiZVwIQvQ_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-0D48ryEZiZVwIQvQ_dict-Debug-e598f8aaa1760677e55f.json",
+					"name" : "0D48ryEZiZVwIQvQ_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "9pUaEClyNwYc1oW4_dict::@5a01f4a85a282a681d96",
+					"jsonFile" : "target-9pUaEClyNwYc1oW4_dict-Debug-f9843aa255e7f4d733d6.json",
+					"name" : "9pUaEClyNwYc1oW4_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "JgOJ02iglRIC2QJq_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-JgOJ02iglRIC2QJq_dict-Debug-58547792eb7826394c51.json",
+					"name" : "JgOJ02iglRIC2QJq_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Joh8NlzLu8sC0hv4_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-Joh8NlzLu8sC0hv4_dict-Debug-dcfe2d3e641441944e9d.json",
+					"name" : "Joh8NlzLu8sC0hv4_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "LDAFiNSwJ3QI1wag_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-LDAFiNSwJ3QI1wag_dict-Debug-1ce273e6113589eb3d03.json",
+					"name" : "LDAFiNSwJ3QI1wag_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "MDy5XJ95k8Rv2dZ5_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-MDy5XJ95k8Rv2dZ5_dict-Debug-f30437be427bd15be9ed.json",
+					"name" : "MDy5XJ95k8Rv2dZ5_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "MWIQty8NnyNbIYFU_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-MWIQty8NnyNbIYFU_dict-Debug-5fe2c8207f8f6215edce.json",
+					"name" : "MWIQty8NnyNbIYFU_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "NOrvOTcG138RAlVQ_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-NOrvOTcG138RAlVQ_dict-Debug-1f75adc441bb612c1c71.json",
+					"name" : "NOrvOTcG138RAlVQ_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Ngr5e57cFsEH6223_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-Ngr5e57cFsEH6223_dict-Debug-98624d65b9a037b7aceb.json",
+					"name" : "Ngr5e57cFsEH6223_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "R201gEsh0KTXS7au_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-R201gEsh0KTXS7au_dict-Debug-228fa3ab354830a7d18e.json",
+					"name" : "R201gEsh0KTXS7au_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "S1sTcaeYpArsrRjN_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-S1sTcaeYpArsrRjN_dict-Debug-8579310b7ebe14400f10.json",
+					"name" : "S1sTcaeYpArsrRjN_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SBrcMvWVHADiFtaj_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-SBrcMvWVHADiFtaj_dict-Debug-7241e3634a1cc16610ad.json",
+					"name" : "SBrcMvWVHADiFtaj_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Threads::Threads::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Threads__Threads-Debug-a8901bdf37fe306b3f7a.json",
+					"name" : "Threads::Threads",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "TkHXNq82rT3f78JH_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-TkHXNq82rT3f78JH_dict-Debug-680839c69d0f8e68296b.json",
+					"name" : "TkHXNq82rT3f78JH_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "USErVJDVuauASB6z_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-USErVJDVuauASB6z_dict-Debug-333777f0fd548eb49bb3.json",
+					"name" : "USErVJDVuauASB6z_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "XsIeSBN6Y7ZNYMRH_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-XsIeSBN6Y7ZNYMRH_dict-Debug-73cc3190a2e2d83df297.json",
+					"name" : "XsIeSBN6Y7ZNYMRH_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "YdPXCbcteMUhR6Y4_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-YdPXCbcteMUhR6Y4_dict-Debug-cea4ef53893cb061a1e6.json",
+					"name" : "YdPXCbcteMUhR6Y4_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ZtGqPFKIipfFXyzF_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-ZtGqPFKIipfFXyzF_dict-Debug-d84576d3e678a69e0169.json",
+					"name" : "ZtGqPFKIipfFXyzF_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "f9mIMGasOxkQan81_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-f9mIMGasOxkQan81_dict-Debug-a6d8c22aaf3d3940da50.json",
+					"name" : "f9mIMGasOxkQan81_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_analytics::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_analytics-Debug-0b57ffe3a9aeeec7ab03.json",
+					"name" : "juce_analytics",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_animation::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_animation-Debug-e92b85da8f6e70166028.json",
+					"name" : "juce_animation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_ara_headers::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_ara_headers-Debug-30eb9796da90454c6248.json",
+					"name" : "juce_ara_headers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "juce_atomic_wrapper::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-juce_atomic_wrapper-Debug-10fb7c27e8501171c315.json",
+					"name" : "juce_atomic_wrapper",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_basics::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_basics-Debug-44aa4dd00032f0a9e793.json",
+					"name" : "juce_audio_basics",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_devices::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_devices-Debug-ac6d45cea04b02b8fdcf.json",
+					"name" : "juce_audio_devices",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_formats::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_formats-Debug-ff5340e9052cb1b9c875.json",
+					"name" : "juce_audio_formats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_plugin_client::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_plugin_client-Debug-97654e761d2fd532c536.json",
+					"name" : "juce_audio_plugin_client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_plugin_client_AAX::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_plugin_client_AAX-Debug-570139d052913f18c791.json",
+					"name" : "juce_audio_plugin_client_AAX",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_plugin_client_LV2::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_plugin_client_LV2-Debug-5aaf1a7cdbce9a0f9130.json",
+					"name" : "juce_audio_plugin_client_LV2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_plugin_client_Standalone::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_plugin_client_Standalone-Debug-530dd3d4499cf1f8636e.json",
+					"name" : "juce_audio_plugin_client_Standalone",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_plugin_client_Unity::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_plugin_client_Unity-Debug-99714f672a67743da07b.json",
+					"name" : "juce_audio_plugin_client_Unity",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_plugin_client_VST::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_plugin_client_VST-Debug-adaeb489e7a35b65776d.json",
+					"name" : "juce_audio_plugin_client_VST",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_plugin_client_VST3::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_plugin_client_VST3-Debug-0fd2868ae107be245551.json",
+					"name" : "juce_audio_plugin_client_VST3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_processors::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_processors-Debug-7e976dd59b942fe52490.json",
+					"name" : "juce_audio_processors",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_processors_headless::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_processors_headless-Debug-074183d69a0521b474e4.json",
+					"name" : "juce_audio_processors_headless",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_utils::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_utils-Debug-59b0a73fa71bbf6b19fe.json",
+					"name" : "juce_audio_utils",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_box2d::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_box2d-Debug-970a6e61eb368ec20d36.json",
+					"name" : "juce_box2d",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "juce_build_tools::@5a01f4a85a282a681d96",
+					"jsonFile" : "target-juce_build_tools-Debug-66ce03713665fa945193.json",
+					"name" : "juce_build_tools",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_core::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_core-Debug-9ef4ae6d928fd9f49fd7.json",
+					"name" : "juce_core",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_cryptography::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_cryptography-Debug-573a2f1364d66bd0335c.json",
+					"name" : "juce_cryptography",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_data_structures::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_data_structures-Debug-ccab1d069a6a03d67b6e.json",
+					"name" : "juce_data_structures",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_dsp::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_dsp-Debug-ecdb22d3d18fb1f386a8.json",
+					"name" : "juce_dsp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_events::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_events-Debug-2464ff3805bd496d8f06.json",
+					"name" : "juce_events",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_graphics::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_graphics-Debug-09850582f406425c7e60.json",
+					"name" : "juce_graphics",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_gui_basics::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_gui_basics-Debug-dca65ed05b598567d6fa.json",
+					"name" : "juce_gui_basics",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_gui_extra::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_gui_extra-Debug-4a7d0c604855cf6d5b42.json",
+					"name" : "juce_gui_extra",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_javascript::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_javascript-Debug-66c43c0fd97f4d59c2e3.json",
+					"name" : "juce_javascript",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_lilv_headers::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_lilv_headers-Debug-cd552d16229c3a4a37a2.json",
+					"name" : "juce_lilv_headers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_midi_ci::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_midi_ci-Debug-48ba87cb63cba6e5d0ca.json",
+					"name" : "juce_midi_ci",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_opengl::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_opengl-Debug-c927eaa506b2dcc0c505.json",
+					"name" : "juce_opengl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_osc::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_osc-Debug-077b5e5a63484ef945d6.json",
+					"name" : "juce_osc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_product_unlocking::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_product_unlocking-Debug-0a76dd4d073cad82807e.json",
+					"name" : "juce_product_unlocking",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "juce_recommended_config_flags::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-juce_recommended_config_flags-Debug-41e10b88256d27ca0af7.json",
+					"name" : "juce_recommended_config_flags",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "juce_recommended_lto_flags::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-juce_recommended_lto_flags-Debug-d1f10e93879a79af52cf.json",
+					"name" : "juce_recommended_lto_flags",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "juce_recommended_warning_flags::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-juce_recommended_warning_flags-Debug-2b9b228ef460ca5504ef.json",
+					"name" : "juce_recommended_warning_flags",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "juce_tools::juceaide::@663ec0d66f991091d158",
+					"jsonFile" : "target-juce_tools__juceaide-Debug-de1cd491a49531612117.json",
+					"name" : "juce_tools::juceaide",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_video::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_video-Debug-6ba9de231b44ab1bc09e.json",
+					"name" : "juce_video",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_vst3_headers::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_vst3_headers-Debug-a2b20bd96a4b7d934796.json",
+					"name" : "juce_vst3_headers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "juceaide::@663ec0d66f991091d158",
+					"jsonFile" : "target-juceaide-Debug-2b881ef67623923d83c4.json",
+					"name" : "juceaide",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "orkqwUTm0THmtXTd_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-orkqwUTm0THmtXTd_dict-Debug-c5c6334f54a3b50a9d94.json",
+					"name" : "orkqwUTm0THmtXTd_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "plAqlpGZ1Gbmcrv2_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-plAqlpGZ1Gbmcrv2_dict-Debug-44a8908ccb69204e409f.json",
+					"name" : "plAqlpGZ1Gbmcrv2_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "qhf4fqLTxw4kPWxb_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-qhf4fqLTxw4kPWxb_dict-Debug-dbcd1d7be0b3d3226b24.json",
+					"name" : "qhf4fqLTxw4kPWxb_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "t9jwjIFhjPbHkJRX_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-t9jwjIFhjPbHkJRX_dict-Debug-c9fee52d09ba498d8cec.json",
+					"name" : "t9jwjIFhjPbHkJRX_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "tbz5U3z0jh97bH1W_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-tbz5U3z0jh97bH1W_dict-Debug-50170d4acce34d6aaa24.json",
+					"name" : "tbz5U3z0jh97bH1W_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "u36SUDcDIq8zu6sL_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-u36SUDcDIq8zu6sL_dict-Debug-54c8fbcb5dab26f2c19c.json",
+					"name" : "u36SUDcDIq8zu6sL_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "v7rswg37pysIsICu_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-v7rswg37pysIsICu_dict-Debug-279b057091132d888764.json",
+					"name" : "v7rswg37pysIsICu_dict",
+					"projectIndex" : 0
+				}
+			],
+			"directories" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						12,
+						22,
+						52,
+						53,
+						54
+					],
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-9a9a9a87cda37cb9de10.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						56,
+						57,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65
+					],
+					"build" : "modules",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-modules-Debug-f3605c407adfc6ea5645.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "modules"
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						1,
+						37
+					],
+					"build" : "extras/Build",
+					"childIndexes" : 
+					[
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-extras.Build-Debug-19ca90365fba0e7ddb81.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "extras/Build"
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						55,
+						58
+					],
+					"build" : "extras/Build/juceaide",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-extras.Build.juceaide-Debug-68efe9054da15fbfcfcf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "extras/Build/juceaide"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "JUCE",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Debug-83ef427c8aae4e8967c4.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Debug-10fcb4336c65792ac174.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "juce_lv2_helper::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-juce_lv2_helper-Debug-43d953a793ed440450e9.json",
+					"name" : "juce_lv2_helper",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "0D48ryEZiZVwIQvQ_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-0D48ryEZiZVwIQvQ_dict-Release-e598f8aaa1760677e55f.json",
+					"name" : "0D48ryEZiZVwIQvQ_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "9pUaEClyNwYc1oW4_dict::@5a01f4a85a282a681d96",
+					"jsonFile" : "target-9pUaEClyNwYc1oW4_dict-Release-f9843aa255e7f4d733d6.json",
+					"name" : "9pUaEClyNwYc1oW4_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "JgOJ02iglRIC2QJq_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-JgOJ02iglRIC2QJq_dict-Release-58547792eb7826394c51.json",
+					"name" : "JgOJ02iglRIC2QJq_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Joh8NlzLu8sC0hv4_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-Joh8NlzLu8sC0hv4_dict-Release-dcfe2d3e641441944e9d.json",
+					"name" : "Joh8NlzLu8sC0hv4_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "LDAFiNSwJ3QI1wag_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-LDAFiNSwJ3QI1wag_dict-Release-1ce273e6113589eb3d03.json",
+					"name" : "LDAFiNSwJ3QI1wag_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "MDy5XJ95k8Rv2dZ5_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-MDy5XJ95k8Rv2dZ5_dict-Release-f30437be427bd15be9ed.json",
+					"name" : "MDy5XJ95k8Rv2dZ5_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "MWIQty8NnyNbIYFU_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-MWIQty8NnyNbIYFU_dict-Release-5fe2c8207f8f6215edce.json",
+					"name" : "MWIQty8NnyNbIYFU_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "NOrvOTcG138RAlVQ_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-NOrvOTcG138RAlVQ_dict-Release-1f75adc441bb612c1c71.json",
+					"name" : "NOrvOTcG138RAlVQ_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Ngr5e57cFsEH6223_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-Ngr5e57cFsEH6223_dict-Release-98624d65b9a037b7aceb.json",
+					"name" : "Ngr5e57cFsEH6223_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "R201gEsh0KTXS7au_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-R201gEsh0KTXS7au_dict-Release-228fa3ab354830a7d18e.json",
+					"name" : "R201gEsh0KTXS7au_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "S1sTcaeYpArsrRjN_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-S1sTcaeYpArsrRjN_dict-Release-8579310b7ebe14400f10.json",
+					"name" : "S1sTcaeYpArsrRjN_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SBrcMvWVHADiFtaj_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-SBrcMvWVHADiFtaj_dict-Release-7241e3634a1cc16610ad.json",
+					"name" : "SBrcMvWVHADiFtaj_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Threads::Threads::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Threads__Threads-Release-a8901bdf37fe306b3f7a.json",
+					"name" : "Threads::Threads",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "TkHXNq82rT3f78JH_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-TkHXNq82rT3f78JH_dict-Release-680839c69d0f8e68296b.json",
+					"name" : "TkHXNq82rT3f78JH_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "USErVJDVuauASB6z_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-USErVJDVuauASB6z_dict-Release-333777f0fd548eb49bb3.json",
+					"name" : "USErVJDVuauASB6z_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "XsIeSBN6Y7ZNYMRH_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-XsIeSBN6Y7ZNYMRH_dict-Release-73cc3190a2e2d83df297.json",
+					"name" : "XsIeSBN6Y7ZNYMRH_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "YdPXCbcteMUhR6Y4_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-YdPXCbcteMUhR6Y4_dict-Release-cea4ef53893cb061a1e6.json",
+					"name" : "YdPXCbcteMUhR6Y4_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ZtGqPFKIipfFXyzF_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-ZtGqPFKIipfFXyzF_dict-Release-d84576d3e678a69e0169.json",
+					"name" : "ZtGqPFKIipfFXyzF_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "f9mIMGasOxkQan81_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-f9mIMGasOxkQan81_dict-Release-a6d8c22aaf3d3940da50.json",
+					"name" : "f9mIMGasOxkQan81_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_analytics::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_analytics-Release-0b57ffe3a9aeeec7ab03.json",
+					"name" : "juce_analytics",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_animation::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_animation-Release-e92b85da8f6e70166028.json",
+					"name" : "juce_animation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_ara_headers::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_ara_headers-Release-30eb9796da90454c6248.json",
+					"name" : "juce_ara_headers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "juce_atomic_wrapper::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-juce_atomic_wrapper-Release-10fb7c27e8501171c315.json",
+					"name" : "juce_atomic_wrapper",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_basics::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_basics-Release-44aa4dd00032f0a9e793.json",
+					"name" : "juce_audio_basics",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_devices::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_devices-Release-ac6d45cea04b02b8fdcf.json",
+					"name" : "juce_audio_devices",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_formats::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_formats-Release-ff5340e9052cb1b9c875.json",
+					"name" : "juce_audio_formats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_plugin_client::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_plugin_client-Release-97654e761d2fd532c536.json",
+					"name" : "juce_audio_plugin_client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_plugin_client_AAX::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_plugin_client_AAX-Release-570139d052913f18c791.json",
+					"name" : "juce_audio_plugin_client_AAX",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_plugin_client_LV2::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_plugin_client_LV2-Release-5aaf1a7cdbce9a0f9130.json",
+					"name" : "juce_audio_plugin_client_LV2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_plugin_client_Standalone::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_plugin_client_Standalone-Release-530dd3d4499cf1f8636e.json",
+					"name" : "juce_audio_plugin_client_Standalone",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_plugin_client_Unity::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_plugin_client_Unity-Release-99714f672a67743da07b.json",
+					"name" : "juce_audio_plugin_client_Unity",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_plugin_client_VST::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_plugin_client_VST-Release-adaeb489e7a35b65776d.json",
+					"name" : "juce_audio_plugin_client_VST",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_plugin_client_VST3::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_plugin_client_VST3-Release-0fd2868ae107be245551.json",
+					"name" : "juce_audio_plugin_client_VST3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_processors::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_processors-Release-7e976dd59b942fe52490.json",
+					"name" : "juce_audio_processors",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_processors_headless::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_processors_headless-Release-074183d69a0521b474e4.json",
+					"name" : "juce_audio_processors_headless",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_utils::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_utils-Release-59b0a73fa71bbf6b19fe.json",
+					"name" : "juce_audio_utils",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_box2d::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_box2d-Release-970a6e61eb368ec20d36.json",
+					"name" : "juce_box2d",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "juce_build_tools::@5a01f4a85a282a681d96",
+					"jsonFile" : "target-juce_build_tools-Release-66ce03713665fa945193.json",
+					"name" : "juce_build_tools",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_core::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_core-Release-9ef4ae6d928fd9f49fd7.json",
+					"name" : "juce_core",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_cryptography::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_cryptography-Release-573a2f1364d66bd0335c.json",
+					"name" : "juce_cryptography",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_data_structures::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_data_structures-Release-ccab1d069a6a03d67b6e.json",
+					"name" : "juce_data_structures",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_dsp::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_dsp-Release-ecdb22d3d18fb1f386a8.json",
+					"name" : "juce_dsp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_events::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_events-Release-2464ff3805bd496d8f06.json",
+					"name" : "juce_events",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_graphics::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_graphics-Release-09850582f406425c7e60.json",
+					"name" : "juce_graphics",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_gui_basics::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_gui_basics-Release-dca65ed05b598567d6fa.json",
+					"name" : "juce_gui_basics",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_gui_extra::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_gui_extra-Release-4a7d0c604855cf6d5b42.json",
+					"name" : "juce_gui_extra",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_javascript::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_javascript-Release-66c43c0fd97f4d59c2e3.json",
+					"name" : "juce_javascript",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_lilv_headers::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_lilv_headers-Release-cd552d16229c3a4a37a2.json",
+					"name" : "juce_lilv_headers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_midi_ci::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_midi_ci-Release-48ba87cb63cba6e5d0ca.json",
+					"name" : "juce_midi_ci",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_opengl::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_opengl-Release-c927eaa506b2dcc0c505.json",
+					"name" : "juce_opengl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_osc::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_osc-Release-077b5e5a63484ef945d6.json",
+					"name" : "juce_osc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_product_unlocking::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_product_unlocking-Release-0a76dd4d073cad82807e.json",
+					"name" : "juce_product_unlocking",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "juce_recommended_config_flags::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-juce_recommended_config_flags-Release-41e10b88256d27ca0af7.json",
+					"name" : "juce_recommended_config_flags",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "juce_recommended_lto_flags::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-juce_recommended_lto_flags-Release-01fa386eed13b0e01a0a.json",
+					"name" : "juce_recommended_lto_flags",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "juce_recommended_warning_flags::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-juce_recommended_warning_flags-Release-2b9b228ef460ca5504ef.json",
+					"name" : "juce_recommended_warning_flags",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "juce_tools::juceaide::@663ec0d66f991091d158",
+					"jsonFile" : "target-juce_tools__juceaide-Release-de1cd491a49531612117.json",
+					"name" : "juce_tools::juceaide",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_video::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_video-Release-6ba9de231b44ab1bc09e.json",
+					"name" : "juce_video",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_vst3_headers::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_vst3_headers-Release-a2b20bd96a4b7d934796.json",
+					"name" : "juce_vst3_headers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "juceaide::@663ec0d66f991091d158",
+					"jsonFile" : "target-juceaide-Release-2b881ef67623923d83c4.json",
+					"name" : "juceaide",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "orkqwUTm0THmtXTd_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-orkqwUTm0THmtXTd_dict-Release-c5c6334f54a3b50a9d94.json",
+					"name" : "orkqwUTm0THmtXTd_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "plAqlpGZ1Gbmcrv2_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-plAqlpGZ1Gbmcrv2_dict-Release-44a8908ccb69204e409f.json",
+					"name" : "plAqlpGZ1Gbmcrv2_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "qhf4fqLTxw4kPWxb_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-qhf4fqLTxw4kPWxb_dict-Release-dbcd1d7be0b3d3226b24.json",
+					"name" : "qhf4fqLTxw4kPWxb_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "t9jwjIFhjPbHkJRX_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-t9jwjIFhjPbHkJRX_dict-Release-c9fee52d09ba498d8cec.json",
+					"name" : "t9jwjIFhjPbHkJRX_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "tbz5U3z0jh97bH1W_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-tbz5U3z0jh97bH1W_dict-Release-50170d4acce34d6aaa24.json",
+					"name" : "tbz5U3z0jh97bH1W_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "u36SUDcDIq8zu6sL_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-u36SUDcDIq8zu6sL_dict-Release-54c8fbcb5dab26f2c19c.json",
+					"name" : "u36SUDcDIq8zu6sL_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "v7rswg37pysIsICu_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-v7rswg37pysIsICu_dict-Release-279b057091132d888764.json",
+					"name" : "v7rswg37pysIsICu_dict",
+					"projectIndex" : 0
+				}
+			],
+			"directories" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						12,
+						22,
+						52,
+						53,
+						54
+					],
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-ef5950d4fce128ffcce0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						56,
+						57,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65
+					],
+					"build" : "modules",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-modules-Release-f3605c407adfc6ea5645.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "modules"
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						1,
+						37
+					],
+					"build" : "extras/Build",
+					"childIndexes" : 
+					[
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-extras.Build-Release-19ca90365fba0e7ddb81.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "extras/Build"
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						55,
+						58
+					],
+					"build" : "extras/Build/juceaide",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-extras.Build.juceaide-Release-68efe9054da15fbfcfcf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "extras/Build/juceaide"
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "JUCE",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Release-83ef427c8aae4e8967c4.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Release-10fcb4336c65792ac174.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "juce_lv2_helper::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-juce_lv2_helper-Release-43491f1627bc5b1b8849.json",
+					"name" : "juce_lv2_helper",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "0D48ryEZiZVwIQvQ_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-0D48ryEZiZVwIQvQ_dict-MinSizeRel-e598f8aaa1760677e55f.json",
+					"name" : "0D48ryEZiZVwIQvQ_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "9pUaEClyNwYc1oW4_dict::@5a01f4a85a282a681d96",
+					"jsonFile" : "target-9pUaEClyNwYc1oW4_dict-MinSizeRel-f9843aa255e7f4d733d6.json",
+					"name" : "9pUaEClyNwYc1oW4_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "JgOJ02iglRIC2QJq_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-JgOJ02iglRIC2QJq_dict-MinSizeRel-58547792eb7826394c51.json",
+					"name" : "JgOJ02iglRIC2QJq_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Joh8NlzLu8sC0hv4_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-Joh8NlzLu8sC0hv4_dict-MinSizeRel-dcfe2d3e641441944e9d.json",
+					"name" : "Joh8NlzLu8sC0hv4_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "LDAFiNSwJ3QI1wag_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-LDAFiNSwJ3QI1wag_dict-MinSizeRel-1ce273e6113589eb3d03.json",
+					"name" : "LDAFiNSwJ3QI1wag_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "MDy5XJ95k8Rv2dZ5_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-MDy5XJ95k8Rv2dZ5_dict-MinSizeRel-f30437be427bd15be9ed.json",
+					"name" : "MDy5XJ95k8Rv2dZ5_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "MWIQty8NnyNbIYFU_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-MWIQty8NnyNbIYFU_dict-MinSizeRel-5fe2c8207f8f6215edce.json",
+					"name" : "MWIQty8NnyNbIYFU_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "NOrvOTcG138RAlVQ_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-NOrvOTcG138RAlVQ_dict-MinSizeRel-1f75adc441bb612c1c71.json",
+					"name" : "NOrvOTcG138RAlVQ_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Ngr5e57cFsEH6223_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-Ngr5e57cFsEH6223_dict-MinSizeRel-98624d65b9a037b7aceb.json",
+					"name" : "Ngr5e57cFsEH6223_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "R201gEsh0KTXS7au_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-R201gEsh0KTXS7au_dict-MinSizeRel-228fa3ab354830a7d18e.json",
+					"name" : "R201gEsh0KTXS7au_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "S1sTcaeYpArsrRjN_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-S1sTcaeYpArsrRjN_dict-MinSizeRel-8579310b7ebe14400f10.json",
+					"name" : "S1sTcaeYpArsrRjN_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SBrcMvWVHADiFtaj_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-SBrcMvWVHADiFtaj_dict-MinSizeRel-7241e3634a1cc16610ad.json",
+					"name" : "SBrcMvWVHADiFtaj_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Threads::Threads::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Threads__Threads-MinSizeRel-a8901bdf37fe306b3f7a.json",
+					"name" : "Threads::Threads",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "TkHXNq82rT3f78JH_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-TkHXNq82rT3f78JH_dict-MinSizeRel-680839c69d0f8e68296b.json",
+					"name" : "TkHXNq82rT3f78JH_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "USErVJDVuauASB6z_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-USErVJDVuauASB6z_dict-MinSizeRel-333777f0fd548eb49bb3.json",
+					"name" : "USErVJDVuauASB6z_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "XsIeSBN6Y7ZNYMRH_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-XsIeSBN6Y7ZNYMRH_dict-MinSizeRel-73cc3190a2e2d83df297.json",
+					"name" : "XsIeSBN6Y7ZNYMRH_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "YdPXCbcteMUhR6Y4_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-YdPXCbcteMUhR6Y4_dict-MinSizeRel-cea4ef53893cb061a1e6.json",
+					"name" : "YdPXCbcteMUhR6Y4_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ZtGqPFKIipfFXyzF_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-ZtGqPFKIipfFXyzF_dict-MinSizeRel-d84576d3e678a69e0169.json",
+					"name" : "ZtGqPFKIipfFXyzF_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "f9mIMGasOxkQan81_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-f9mIMGasOxkQan81_dict-MinSizeRel-a6d8c22aaf3d3940da50.json",
+					"name" : "f9mIMGasOxkQan81_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_analytics::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_analytics-MinSizeRel-0b57ffe3a9aeeec7ab03.json",
+					"name" : "juce_analytics",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_animation::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_animation-MinSizeRel-e92b85da8f6e70166028.json",
+					"name" : "juce_animation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_ara_headers::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_ara_headers-MinSizeRel-30eb9796da90454c6248.json",
+					"name" : "juce_ara_headers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "juce_atomic_wrapper::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-juce_atomic_wrapper-MinSizeRel-10fb7c27e8501171c315.json",
+					"name" : "juce_atomic_wrapper",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_basics::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_basics-MinSizeRel-44aa4dd00032f0a9e793.json",
+					"name" : "juce_audio_basics",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_devices::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_devices-MinSizeRel-ac6d45cea04b02b8fdcf.json",
+					"name" : "juce_audio_devices",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_formats::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_formats-MinSizeRel-ff5340e9052cb1b9c875.json",
+					"name" : "juce_audio_formats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_plugin_client::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_plugin_client-MinSizeRel-97654e761d2fd532c536.json",
+					"name" : "juce_audio_plugin_client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_plugin_client_AAX::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_plugin_client_AAX-MinSizeRel-570139d052913f18c791.json",
+					"name" : "juce_audio_plugin_client_AAX",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_plugin_client_LV2::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_plugin_client_LV2-MinSizeRel-5aaf1a7cdbce9a0f9130.json",
+					"name" : "juce_audio_plugin_client_LV2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_plugin_client_Standalone::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_plugin_client_Standalone-MinSizeRel-530dd3d4499cf1f8636e.json",
+					"name" : "juce_audio_plugin_client_Standalone",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_plugin_client_Unity::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_plugin_client_Unity-MinSizeRel-99714f672a67743da07b.json",
+					"name" : "juce_audio_plugin_client_Unity",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_plugin_client_VST::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_plugin_client_VST-MinSizeRel-adaeb489e7a35b65776d.json",
+					"name" : "juce_audio_plugin_client_VST",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_plugin_client_VST3::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_plugin_client_VST3-MinSizeRel-0fd2868ae107be245551.json",
+					"name" : "juce_audio_plugin_client_VST3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_processors::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_processors-MinSizeRel-7e976dd59b942fe52490.json",
+					"name" : "juce_audio_processors",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_processors_headless::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_processors_headless-MinSizeRel-074183d69a0521b474e4.json",
+					"name" : "juce_audio_processors_headless",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_utils::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_utils-MinSizeRel-59b0a73fa71bbf6b19fe.json",
+					"name" : "juce_audio_utils",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_box2d::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_box2d-MinSizeRel-970a6e61eb368ec20d36.json",
+					"name" : "juce_box2d",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "juce_build_tools::@5a01f4a85a282a681d96",
+					"jsonFile" : "target-juce_build_tools-MinSizeRel-66ce03713665fa945193.json",
+					"name" : "juce_build_tools",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_core::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_core-MinSizeRel-9ef4ae6d928fd9f49fd7.json",
+					"name" : "juce_core",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_cryptography::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_cryptography-MinSizeRel-573a2f1364d66bd0335c.json",
+					"name" : "juce_cryptography",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_data_structures::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_data_structures-MinSizeRel-ccab1d069a6a03d67b6e.json",
+					"name" : "juce_data_structures",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_dsp::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_dsp-MinSizeRel-ecdb22d3d18fb1f386a8.json",
+					"name" : "juce_dsp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_events::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_events-MinSizeRel-2464ff3805bd496d8f06.json",
+					"name" : "juce_events",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_graphics::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_graphics-MinSizeRel-09850582f406425c7e60.json",
+					"name" : "juce_graphics",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_gui_basics::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_gui_basics-MinSizeRel-dca65ed05b598567d6fa.json",
+					"name" : "juce_gui_basics",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_gui_extra::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_gui_extra-MinSizeRel-4a7d0c604855cf6d5b42.json",
+					"name" : "juce_gui_extra",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_javascript::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_javascript-MinSizeRel-66c43c0fd97f4d59c2e3.json",
+					"name" : "juce_javascript",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_lilv_headers::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_lilv_headers-MinSizeRel-cd552d16229c3a4a37a2.json",
+					"name" : "juce_lilv_headers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_midi_ci::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_midi_ci-MinSizeRel-48ba87cb63cba6e5d0ca.json",
+					"name" : "juce_midi_ci",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_opengl::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_opengl-MinSizeRel-c927eaa506b2dcc0c505.json",
+					"name" : "juce_opengl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_osc::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_osc-MinSizeRel-077b5e5a63484ef945d6.json",
+					"name" : "juce_osc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_product_unlocking::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_product_unlocking-MinSizeRel-0a76dd4d073cad82807e.json",
+					"name" : "juce_product_unlocking",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "juce_recommended_config_flags::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-juce_recommended_config_flags-MinSizeRel-41e10b88256d27ca0af7.json",
+					"name" : "juce_recommended_config_flags",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "juce_recommended_lto_flags::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-juce_recommended_lto_flags-MinSizeRel-d1f10e93879a79af52cf.json",
+					"name" : "juce_recommended_lto_flags",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "juce_recommended_warning_flags::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-juce_recommended_warning_flags-MinSizeRel-2b9b228ef460ca5504ef.json",
+					"name" : "juce_recommended_warning_flags",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "juce_tools::juceaide::@663ec0d66f991091d158",
+					"jsonFile" : "target-juce_tools__juceaide-MinSizeRel-de1cd491a49531612117.json",
+					"name" : "juce_tools::juceaide",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_video::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_video-MinSizeRel-6ba9de231b44ab1bc09e.json",
+					"name" : "juce_video",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_vst3_headers::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_vst3_headers-MinSizeRel-a2b20bd96a4b7d934796.json",
+					"name" : "juce_vst3_headers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "juceaide::@663ec0d66f991091d158",
+					"jsonFile" : "target-juceaide-MinSizeRel-2b881ef67623923d83c4.json",
+					"name" : "juceaide",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "orkqwUTm0THmtXTd_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-orkqwUTm0THmtXTd_dict-MinSizeRel-c5c6334f54a3b50a9d94.json",
+					"name" : "orkqwUTm0THmtXTd_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "plAqlpGZ1Gbmcrv2_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-plAqlpGZ1Gbmcrv2_dict-MinSizeRel-44a8908ccb69204e409f.json",
+					"name" : "plAqlpGZ1Gbmcrv2_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "qhf4fqLTxw4kPWxb_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-qhf4fqLTxw4kPWxb_dict-MinSizeRel-dbcd1d7be0b3d3226b24.json",
+					"name" : "qhf4fqLTxw4kPWxb_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "t9jwjIFhjPbHkJRX_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-t9jwjIFhjPbHkJRX_dict-MinSizeRel-c9fee52d09ba498d8cec.json",
+					"name" : "t9jwjIFhjPbHkJRX_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "tbz5U3z0jh97bH1W_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-tbz5U3z0jh97bH1W_dict-MinSizeRel-50170d4acce34d6aaa24.json",
+					"name" : "tbz5U3z0jh97bH1W_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "u36SUDcDIq8zu6sL_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-u36SUDcDIq8zu6sL_dict-MinSizeRel-54c8fbcb5dab26f2c19c.json",
+					"name" : "u36SUDcDIq8zu6sL_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "v7rswg37pysIsICu_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-v7rswg37pysIsICu_dict-MinSizeRel-279b057091132d888764.json",
+					"name" : "v7rswg37pysIsICu_dict",
+					"projectIndex" : 0
+				}
+			],
+			"directories" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						12,
+						22,
+						52,
+						53,
+						54
+					],
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-MinSizeRel-24c498f78897a8b8f6e4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						56,
+						57,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65
+					],
+					"build" : "modules",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-modules-MinSizeRel-f3605c407adfc6ea5645.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "modules"
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						1,
+						37
+					],
+					"build" : "extras/Build",
+					"childIndexes" : 
+					[
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-extras.Build-MinSizeRel-19ca90365fba0e7ddb81.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "extras/Build"
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						55,
+						58
+					],
+					"build" : "extras/Build/juceaide",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-extras.Build.juceaide-MinSizeRel-68efe9054da15fbfcfcf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "extras/Build/juceaide"
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "JUCE",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-83ef427c8aae4e8967c4.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-10fcb4336c65792ac174.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "juce_lv2_helper::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-juce_lv2_helper-MinSizeRel-d32696119175f467d294.json",
+					"name" : "juce_lv2_helper",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "0D48ryEZiZVwIQvQ_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-0D48ryEZiZVwIQvQ_dict-RelWithDebInfo-e598f8aaa1760677e55f.json",
+					"name" : "0D48ryEZiZVwIQvQ_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "9pUaEClyNwYc1oW4_dict::@5a01f4a85a282a681d96",
+					"jsonFile" : "target-9pUaEClyNwYc1oW4_dict-RelWithDebInfo-f9843aa255e7f4d733d6.json",
+					"name" : "9pUaEClyNwYc1oW4_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "JgOJ02iglRIC2QJq_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-JgOJ02iglRIC2QJq_dict-RelWithDebInfo-58547792eb7826394c51.json",
+					"name" : "JgOJ02iglRIC2QJq_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Joh8NlzLu8sC0hv4_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-Joh8NlzLu8sC0hv4_dict-RelWithDebInfo-dcfe2d3e641441944e9d.json",
+					"name" : "Joh8NlzLu8sC0hv4_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "LDAFiNSwJ3QI1wag_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-LDAFiNSwJ3QI1wag_dict-RelWithDebInfo-1ce273e6113589eb3d03.json",
+					"name" : "LDAFiNSwJ3QI1wag_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "MDy5XJ95k8Rv2dZ5_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-MDy5XJ95k8Rv2dZ5_dict-RelWithDebInfo-f30437be427bd15be9ed.json",
+					"name" : "MDy5XJ95k8Rv2dZ5_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "MWIQty8NnyNbIYFU_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-MWIQty8NnyNbIYFU_dict-RelWithDebInfo-5fe2c8207f8f6215edce.json",
+					"name" : "MWIQty8NnyNbIYFU_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "NOrvOTcG138RAlVQ_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-NOrvOTcG138RAlVQ_dict-RelWithDebInfo-1f75adc441bb612c1c71.json",
+					"name" : "NOrvOTcG138RAlVQ_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Ngr5e57cFsEH6223_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-Ngr5e57cFsEH6223_dict-RelWithDebInfo-98624d65b9a037b7aceb.json",
+					"name" : "Ngr5e57cFsEH6223_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "R201gEsh0KTXS7au_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-R201gEsh0KTXS7au_dict-RelWithDebInfo-228fa3ab354830a7d18e.json",
+					"name" : "R201gEsh0KTXS7au_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "S1sTcaeYpArsrRjN_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-S1sTcaeYpArsrRjN_dict-RelWithDebInfo-8579310b7ebe14400f10.json",
+					"name" : "S1sTcaeYpArsrRjN_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SBrcMvWVHADiFtaj_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-SBrcMvWVHADiFtaj_dict-RelWithDebInfo-7241e3634a1cc16610ad.json",
+					"name" : "SBrcMvWVHADiFtaj_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Threads::Threads::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Threads__Threads-RelWithDebInfo-a8901bdf37fe306b3f7a.json",
+					"name" : "Threads::Threads",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "TkHXNq82rT3f78JH_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-TkHXNq82rT3f78JH_dict-RelWithDebInfo-680839c69d0f8e68296b.json",
+					"name" : "TkHXNq82rT3f78JH_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "USErVJDVuauASB6z_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-USErVJDVuauASB6z_dict-RelWithDebInfo-333777f0fd548eb49bb3.json",
+					"name" : "USErVJDVuauASB6z_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "XsIeSBN6Y7ZNYMRH_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-XsIeSBN6Y7ZNYMRH_dict-RelWithDebInfo-73cc3190a2e2d83df297.json",
+					"name" : "XsIeSBN6Y7ZNYMRH_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "YdPXCbcteMUhR6Y4_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-YdPXCbcteMUhR6Y4_dict-RelWithDebInfo-cea4ef53893cb061a1e6.json",
+					"name" : "YdPXCbcteMUhR6Y4_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ZtGqPFKIipfFXyzF_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-ZtGqPFKIipfFXyzF_dict-RelWithDebInfo-d84576d3e678a69e0169.json",
+					"name" : "ZtGqPFKIipfFXyzF_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "f9mIMGasOxkQan81_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-f9mIMGasOxkQan81_dict-RelWithDebInfo-a6d8c22aaf3d3940da50.json",
+					"name" : "f9mIMGasOxkQan81_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_analytics::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_analytics-RelWithDebInfo-0b57ffe3a9aeeec7ab03.json",
+					"name" : "juce_analytics",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_animation::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_animation-RelWithDebInfo-e92b85da8f6e70166028.json",
+					"name" : "juce_animation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_ara_headers::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_ara_headers-RelWithDebInfo-30eb9796da90454c6248.json",
+					"name" : "juce_ara_headers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "juce_atomic_wrapper::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-juce_atomic_wrapper-RelWithDebInfo-10fb7c27e8501171c315.json",
+					"name" : "juce_atomic_wrapper",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_basics::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_basics-RelWithDebInfo-44aa4dd00032f0a9e793.json",
+					"name" : "juce_audio_basics",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_devices::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_devices-RelWithDebInfo-ac6d45cea04b02b8fdcf.json",
+					"name" : "juce_audio_devices",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_formats::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_formats-RelWithDebInfo-ff5340e9052cb1b9c875.json",
+					"name" : "juce_audio_formats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_plugin_client::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_plugin_client-RelWithDebInfo-97654e761d2fd532c536.json",
+					"name" : "juce_audio_plugin_client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_plugin_client_AAX::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_plugin_client_AAX-RelWithDebInfo-570139d052913f18c791.json",
+					"name" : "juce_audio_plugin_client_AAX",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_plugin_client_LV2::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_plugin_client_LV2-RelWithDebInfo-5aaf1a7cdbce9a0f9130.json",
+					"name" : "juce_audio_plugin_client_LV2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_plugin_client_Standalone::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_plugin_client_Standalone-RelWithDebInfo-530dd3d4499cf1f8636e.json",
+					"name" : "juce_audio_plugin_client_Standalone",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_plugin_client_Unity::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_plugin_client_Unity-RelWithDebInfo-99714f672a67743da07b.json",
+					"name" : "juce_audio_plugin_client_Unity",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_plugin_client_VST::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_plugin_client_VST-RelWithDebInfo-adaeb489e7a35b65776d.json",
+					"name" : "juce_audio_plugin_client_VST",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_plugin_client_VST3::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_plugin_client_VST3-RelWithDebInfo-0fd2868ae107be245551.json",
+					"name" : "juce_audio_plugin_client_VST3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_processors::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_processors-RelWithDebInfo-7e976dd59b942fe52490.json",
+					"name" : "juce_audio_processors",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_processors_headless::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_processors_headless-RelWithDebInfo-074183d69a0521b474e4.json",
+					"name" : "juce_audio_processors_headless",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_audio_utils::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_audio_utils-RelWithDebInfo-59b0a73fa71bbf6b19fe.json",
+					"name" : "juce_audio_utils",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_box2d::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_box2d-RelWithDebInfo-970a6e61eb368ec20d36.json",
+					"name" : "juce_box2d",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "juce_build_tools::@5a01f4a85a282a681d96",
+					"jsonFile" : "target-juce_build_tools-RelWithDebInfo-66ce03713665fa945193.json",
+					"name" : "juce_build_tools",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_core::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_core-RelWithDebInfo-9ef4ae6d928fd9f49fd7.json",
+					"name" : "juce_core",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_cryptography::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_cryptography-RelWithDebInfo-573a2f1364d66bd0335c.json",
+					"name" : "juce_cryptography",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_data_structures::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_data_structures-RelWithDebInfo-ccab1d069a6a03d67b6e.json",
+					"name" : "juce_data_structures",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_dsp::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_dsp-RelWithDebInfo-ecdb22d3d18fb1f386a8.json",
+					"name" : "juce_dsp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_events::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_events-RelWithDebInfo-2464ff3805bd496d8f06.json",
+					"name" : "juce_events",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_graphics::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_graphics-RelWithDebInfo-09850582f406425c7e60.json",
+					"name" : "juce_graphics",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_gui_basics::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_gui_basics-RelWithDebInfo-dca65ed05b598567d6fa.json",
+					"name" : "juce_gui_basics",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_gui_extra::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_gui_extra-RelWithDebInfo-4a7d0c604855cf6d5b42.json",
+					"name" : "juce_gui_extra",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_javascript::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_javascript-RelWithDebInfo-66c43c0fd97f4d59c2e3.json",
+					"name" : "juce_javascript",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_lilv_headers::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_lilv_headers-RelWithDebInfo-cd552d16229c3a4a37a2.json",
+					"name" : "juce_lilv_headers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_midi_ci::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_midi_ci-RelWithDebInfo-48ba87cb63cba6e5d0ca.json",
+					"name" : "juce_midi_ci",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_opengl::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_opengl-RelWithDebInfo-c927eaa506b2dcc0c505.json",
+					"name" : "juce_opengl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_osc::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_osc-RelWithDebInfo-077b5e5a63484ef945d6.json",
+					"name" : "juce_osc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_product_unlocking::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_product_unlocking-RelWithDebInfo-0a76dd4d073cad82807e.json",
+					"name" : "juce_product_unlocking",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "juce_recommended_config_flags::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-juce_recommended_config_flags-RelWithDebInfo-41e10b88256d27ca0af7.json",
+					"name" : "juce_recommended_config_flags",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "juce_recommended_lto_flags::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-juce_recommended_lto_flags-RelWithDebInfo-d1f10e93879a79af52cf.json",
+					"name" : "juce_recommended_lto_flags",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "juce_recommended_warning_flags::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-juce_recommended_warning_flags-RelWithDebInfo-2b9b228ef460ca5504ef.json",
+					"name" : "juce_recommended_warning_flags",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "juce_tools::juceaide::@663ec0d66f991091d158",
+					"jsonFile" : "target-juce_tools__juceaide-RelWithDebInfo-de1cd491a49531612117.json",
+					"name" : "juce_tools::juceaide",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_video::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_video-RelWithDebInfo-6ba9de231b44ab1bc09e.json",
+					"name" : "juce_video",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juce_vst3_headers::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-juce_vst3_headers-RelWithDebInfo-a2b20bd96a4b7d934796.json",
+					"name" : "juce_vst3_headers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "juceaide::@663ec0d66f991091d158",
+					"jsonFile" : "target-juceaide-RelWithDebInfo-2b881ef67623923d83c4.json",
+					"name" : "juceaide",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "orkqwUTm0THmtXTd_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-orkqwUTm0THmtXTd_dict-RelWithDebInfo-c5c6334f54a3b50a9d94.json",
+					"name" : "orkqwUTm0THmtXTd_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "plAqlpGZ1Gbmcrv2_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-plAqlpGZ1Gbmcrv2_dict-RelWithDebInfo-44a8908ccb69204e409f.json",
+					"name" : "plAqlpGZ1Gbmcrv2_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "qhf4fqLTxw4kPWxb_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-qhf4fqLTxw4kPWxb_dict-RelWithDebInfo-dbcd1d7be0b3d3226b24.json",
+					"name" : "qhf4fqLTxw4kPWxb_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "t9jwjIFhjPbHkJRX_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-t9jwjIFhjPbHkJRX_dict-RelWithDebInfo-c9fee52d09ba498d8cec.json",
+					"name" : "t9jwjIFhjPbHkJRX_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "tbz5U3z0jh97bH1W_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-tbz5U3z0jh97bH1W_dict-RelWithDebInfo-50170d4acce34d6aaa24.json",
+					"name" : "tbz5U3z0jh97bH1W_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "u36SUDcDIq8zu6sL_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-u36SUDcDIq8zu6sL_dict-RelWithDebInfo-54c8fbcb5dab26f2c19c.json",
+					"name" : "u36SUDcDIq8zu6sL_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "v7rswg37pysIsICu_dict::@9b7b1f9db13f92153135",
+					"jsonFile" : "target-v7rswg37pysIsICu_dict-RelWithDebInfo-279b057091132d888764.json",
+					"name" : "v7rswg37pysIsICu_dict",
+					"projectIndex" : 0
+				}
+			],
+			"directories" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						12,
+						22,
+						52,
+						53,
+						54
+					],
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-RelWithDebInfo-0e7d158a7728a3406092.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						56,
+						57,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65
+					],
+					"build" : "modules",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-modules-RelWithDebInfo-f3605c407adfc6ea5645.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "modules"
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						1,
+						37
+					],
+					"build" : "extras/Build",
+					"childIndexes" : 
+					[
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-extras.Build-RelWithDebInfo-19ca90365fba0e7ddb81.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "extras/Build"
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						55,
+						58
+					],
+					"build" : "extras/Build/juceaide",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-extras.Build.juceaide-RelWithDebInfo-68efe9054da15fbfcfcf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "extras/Build/juceaide"
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "JUCE",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-83ef427c8aae4e8967c4.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-10fcb4336c65792ac174.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "juce_lv2_helper::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-juce_lv2_helper-RelWithDebInfo-62e33a994e16d6da9f47.json",
+					"name" : "juce_lv2_helper",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/tengo/OneDrive/Escritorio/Proyecto/TULForMySound/build",
+		"source" : "C:/Users/tengo/OneDrive/Escritorio/Proyecto/TULForMySound/JUCE"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 11
+	}
+}
